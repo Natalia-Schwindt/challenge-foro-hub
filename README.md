@@ -88,7 +88,7 @@ forohub/
 Abre tu terminal y ejecuta el siguiente comando:
 
 ```bash
-git clone [https://github.com/Natalia-Schwindt/challenge-foro-hub.git](https://github.com/Natalia-Schwindt/challenge-foro-hub.git)
+git clone https://github.com/Natalia-Schwindt/challenge-foro-hub.git
 ```
 
 ### 2. Configurar las variables de entorno
